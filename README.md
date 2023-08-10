@@ -1,7 +1,7 @@
 
 
 git 
-Quick start:
+Quick start
 
 
 
