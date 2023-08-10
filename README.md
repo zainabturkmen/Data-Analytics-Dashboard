@@ -1,7 +1,6 @@
 
 
-git 
-Quick start
+
 
 
 
