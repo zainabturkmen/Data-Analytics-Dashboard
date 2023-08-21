@@ -3,7 +3,7 @@
 git 
 Quick start:
 
-At Scrimba our goal is to create the best possib
+At Scrimba our goal is to create
 
 
 
