@@ -7,7 +7,7 @@
     "babel-loader": "^7.0",
     "babel-preset-env": "*",
     "babel-preset-react": "*"
-    
+
   },
   "scripts": {
     "build": "webpack",
