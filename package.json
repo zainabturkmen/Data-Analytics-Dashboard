@@ -8,6 +8,7 @@
     "babel-preset-env": "*",
     "babel-preset-react": "*"
   },
+  
   "scripts": {
     "build": "webpack",
     "watch": "webpack -w"
