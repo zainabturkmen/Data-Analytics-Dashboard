@@ -10,7 +10,6 @@ $ yarn build # npm run build
 
 Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
-
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
