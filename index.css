@@ -21,6 +21,8 @@ body{
 section{
     background: #221f26 url('bg.jpg');
     background-size: cover;
+    height: 100%;
+    background-blend-mode: screen;
 }
 
 nav{
