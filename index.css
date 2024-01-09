@@ -19,11 +19,11 @@ body{
 }
 
 section{
-    background: #221f26 url('bg.jpg');
+    background: #221f26 url('./bg.jpg');
     background-size: cover;
     background-blend-mode: screen;
     background-position: -100px;
-    height: 100%;
+    /* height: 100%; */
 }
 
 nav{
