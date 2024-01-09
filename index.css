@@ -11,5 +11,8 @@ body{
     height: 100vh; 
     background-attachment: fixed;
     font-family: 'poppins';
+}
 
+.container{
+   margin: 1em .5em;
 }
