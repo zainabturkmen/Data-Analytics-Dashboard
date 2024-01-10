@@ -16,7 +16,7 @@ body{
 .container{
    margin: 1em .5em;
    height: calc(100% - 2em);
-}   
+}     
 
 section{
     background: #221f26 url('./bg.jpg');
