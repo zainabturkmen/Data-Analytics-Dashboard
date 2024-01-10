@@ -12,7 +12,7 @@ body{
     background-attachment: fixed;
     font-family: 'poppins';
 }
-
+  
 .container{
    margin: 1em .5em;
    height: calc(100% - 2em);
