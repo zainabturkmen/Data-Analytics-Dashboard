@@ -1,8 +1,8 @@
-*, *:before, *:after{
+ *, *:before, *:after {
     box-sizing: border-box;
 }  
 
-:root{
+:root {
        
 }  
 
@@ -10,19 +10,23 @@ body{
     background: linear-gradient(220deg, rgba(189,0,255,1) 0%, rgba(0,163,255,1) 100%);
     height: 100vh; 
     background-attachment: fixed;
-    font-family: 'poppins';
+    font-family: 'Poppins';
+    margin: 1em 1em;
+
 }  
   
 .container{
-   margin: 1em .5em;
+   margin: 2em 1em;
    height: calc(100% - 2em);
+   width: 414px;
 }          
 
 section{
     background: #221f26 url('./bg.jpg');
-    background-size: cover;
     background-blend-mode: screen;
+    background-size: cover;
     background-position: -100px;
+    background-repeat: no-repeat;
     height: 100%;
 }
 
