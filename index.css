@@ -1,40 +1,38 @@
- *, *:before, *:after {
+*, *:before, *:after {
     box-sizing: border-box;
-}  
+}
 
 :root {
     --primary-color: #2D7DFF;
 }
 
-body{
+body {
     background: linear-gradient(220deg, rgba(189,0,255,1) 0%, rgba(0,163,255,1) 100%);
-    height: 100vh; 
+    height: 100vh;
     background-attachment: fixed;
     font-family: 'Poppins';
-    margin: 1em 1em;
-}  
-  
-.container{
-   margin: 2em 1em;
-   height: calc(100% - 2em);
-}          
+}
 
-section{
-    background: #221f26 url('./bg.jpg');
-    background-blend-mode: screen;
+#container {
+    margin: 1em .5em;
+    height: calc(100% - 2em);
+}
+
+section {
+    background: #221F26 url('./bg.jpg');
     background-size: cover;
+    background-blend-mode: screen;
     background-position: -100px;
-    background-repeat: no-repeat;
     height: 100%;
     padding: 2em;
 }
 
-nav{    
+nav {
     display: none;
-}  
+}
 
-
-.logo {
+#logo {
     color: var(--primary-color);
     font-weight: 800;
+    text-transform: uppercase;
 }
