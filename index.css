@@ -13,7 +13,7 @@ body {
     font-family: 'Poppins';
 }
 
-#container {
+.container {
     margin: 1em .5em;
     height: calc(100% - 2em);
 }
@@ -31,8 +31,8 @@ nav {
     display: none;
 }
 
-#logo {
+.logo {
     color: var(--primary-color);
     font-weight: 800;
-    text-transform: uppercase;
+    text-transform: up
 }
