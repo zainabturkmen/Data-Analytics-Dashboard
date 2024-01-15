@@ -130,6 +130,10 @@ nav ul li a{
     padding: .875em 5em .875em 4em;
 }
 
+nav ul li a:hover {
+    background: var(--primary-color) ;
+}
+
 .back-btn{
     transform: scaleX(-1);
 }
