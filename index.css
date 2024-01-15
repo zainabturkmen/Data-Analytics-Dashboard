@@ -153,3 +153,8 @@ nav ul li a:hover{
     transform: scaleX(-1) translateX(6px);
 
 }
+
+@media only screen and (min-width: 100px) {
+    
+}
+
