@@ -18,21 +18,32 @@ body {
     height: calc(100% - 2em);
 }
 
-section {
+.section { 
     background: #221F26 url('./bg.jpg');
     background-size: cover;
     background-blend-mode: screen;
-    background-position: -100px;
+    background-position: 100px;
     height: 100%;
     padding: 2em;
+    border-radius: 13px;
+
 }
 
 nav {
     display: none;
 }
+ 
+.header{
+    display: flex;
+}
 
 .logo {
     color: var(--primary-color);
     font-weight: 800;
-    text-transform: up
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 800;
+    width: 100%;
+    text-align: center;
+    margin: 0;
 }
