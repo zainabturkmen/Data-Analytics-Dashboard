@@ -117,10 +117,17 @@ nav ul{
 }
 
 nav ul li{
+    width: 100%;
+}
+
+nav ul li a{
     color: #FFF;
     font-size: 16px;
     font-weight: 400;
-    line-height: 111.4%
+    line-height: 111.4%;
+    text-decoration: none;
+    display: block;
+    padding: .875em 5em .875em 4em;
 }
 
 .back-btn{
