@@ -54,8 +54,7 @@ nav {
 
 h1{
     color: #FFF;
-    width: 331px;
-    height: 81px;
+    /* width: 331px; */
     font-weight: 800;
     line-height: 89%;
     font-size: 48px;
@@ -67,12 +66,9 @@ h1{
     display: grid;
     place-items: center;
     height: 90%;
-    margin-left: -3em;
 }
 
 p{
-    width: 331px;
-    height: 68px;
     flex-shrink: 0;
     color: #847D93;
     font-family: Poppins;
