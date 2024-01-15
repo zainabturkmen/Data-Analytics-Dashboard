@@ -49,7 +49,6 @@ nav {
     font-weight: 800;
     width: 100%;
     text-align: center;
-    margin: 0;
 }
 
 h1{
@@ -66,4 +65,16 @@ h1{
     display: grid;
     place-items: center;
     height: 80%;
+}
+
+p{
+    width: 331px;
+    height: 68px;
+    flex-shrink: 0;
+    color: #847D93;
+    font-family: Poppins;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 275;
+    line-height: 111.4%;
 }
