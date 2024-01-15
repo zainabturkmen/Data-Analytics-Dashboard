@@ -102,6 +102,12 @@ p{
 
 nav{
     position: fixed;
+    z-index: 1;
+    background: #2C2931;
+    height: 100vh;
+    left: 0;
+    top: 0;
+
 
 }
 
