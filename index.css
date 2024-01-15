@@ -170,11 +170,23 @@ nav ul li a:hover{
         display: none;
     }
 
+    nav ul {
+        margin-top: 4em;
+    }
+
+    .logo{
+        margin-left: 4em;
+        text-align: left;
+    }
+
     .section{
         width: 764px;
         border-radius: unset;
         border-top-right-radius: 13px;
         border-bottom-right-radius: 13px;
+        height: 680px;
+
+
     }
 
     .container{
