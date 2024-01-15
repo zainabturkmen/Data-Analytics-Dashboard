@@ -48,3 +48,12 @@ nav {
     margin: 0;
 }
 
+h1{
+    color: #FFF;
+    width: 331px;
+    height: 81px;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 89%;
+    text-transform: uppercase;
+}
