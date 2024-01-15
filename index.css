@@ -108,6 +108,7 @@ nav{
     left: 0;
     top: 0;
     max-width: 300px;
+    transform: translateX(-100%);
 }
 
 nav ul{
