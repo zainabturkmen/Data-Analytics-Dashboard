@@ -154,13 +154,26 @@ nav ul li a:hover{
 
 }
 
-@media only screen and (min-width: 700px) {
+@media only screen and (min-width: 900px) {
     
     nav{
-
+        transform: translateX(0) !important;
+        border-radius: unset;
+        border-radius: unset;
+        border-top-left-radius: 13px;
+        border-bottom-left-radius: 13px;
+        margin: 2em 0 2em 6.2em;
+        height: 650px;
+        /* width: 219px; */
     }
 
     .section{
+        width: 764px;
+    }
+
+    .container{
+        display: flex;
+        justify-content: space-between;
 
     }
 }
