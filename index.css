@@ -175,7 +175,7 @@ nav ul li a:hover{
     }
 
     .logo{
-        margin-left: 2em;
+        margin-left: 3em;
         text-align: left;
         margin-top: 1.5em;
     }
@@ -195,6 +195,18 @@ nav ul li a:hover{
     }
 }
 
+
+@media only screen and (min-width: 1200px) {
+
+    nav{
+
+
+    }
+
+    .section{
+        width: 300px;
+    }
+}
 
 @media only screen and (min-width: 1000px) {
 
@@ -227,7 +239,7 @@ nav ul li a:hover{
 
     .logo{
         text-align: left;
-        padding-left: 2em;
+        padding-left: 1em;
         /* padding-top: 2em; */
     }
 
