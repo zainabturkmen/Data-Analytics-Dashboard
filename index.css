@@ -129,6 +129,9 @@ nav ul li a{
     display: block;
     padding: .875em 5em .875em 4em;
 }
+nav ul li a:hover{
+    background: #413E47;
+}
 
 .active {
     background: var(--primary-color);
@@ -139,4 +142,12 @@ nav ul li a{
 
 .back-btn{
     transform: scaleX(-1);
+    padding: 2em 3em 1em;
+    transition: transform .3s;
+    cursor: pointer;
+}
+
+.back-btn:hover{
+    transform: scaleX(-1) translateX(6px);
+
 }
