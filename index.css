@@ -118,12 +118,11 @@ nav ul{
 
 nav ul li{
     color: #FFF;
-
-font-family: Poppins;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 111.4%
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 111.4%
 }
 
 .back-btn{
