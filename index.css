@@ -22,7 +22,7 @@ body {
     background: #221F26 url('./bg.jpg');
     background-size: cover;
     background-blend-mode: screen;
-    background-position: 100px;
+    background-position: -100px;
     height: 100%;
     padding: 2em;
     border-radius: 13px;
@@ -157,11 +157,13 @@ nav ul li a:hover{
 @media only screen and (min-width: 1000px) {
 
     nav{
-        /* position: unset; */
         transform: translateX(0) !important;
         border-radius: unset;
         border-top-left-radius: 13px;
         border-bottom-left-radius: 13px;
+        margin: 2em 0 2em 5em;
+        height: 650px;
+        width: 219px;
     }
 
     .menu-btn, .back-btn{
@@ -175,6 +177,7 @@ nav ul li a:hover{
     .header{
         margin-left: -2em;
     }
+
     .container{
         display: flex;
         justify-content: space-between;
@@ -188,6 +191,16 @@ nav ul li a:hover{
         border-radius: unset;
         border-top-right-radius: 13px;
         border-bottom-right-radius: 13px;
+        height: 650px;
+        margin: 1em 4em 2em 0;
+        width: 1140px;
+    }
+
+
+    .content{
+        /* width: 398px; */
+        justify-self: left;
+        margin-left: 4em;
     }
 }
 
