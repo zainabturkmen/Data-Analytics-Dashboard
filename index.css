@@ -185,6 +185,7 @@ nav ul li a:hover{
 
     .logo{
         text-align: left;
+        padding-left: 4em;
     }
 
     .section{
@@ -198,9 +199,14 @@ nav ul li a:hover{
 
 
     .content{
-        /* width: 398px; */
         justify-self: left;
         margin-left: 4em;
+    }
+
+
+
+    .content p, h1{
+        width: 300px;
     }
 }
 
