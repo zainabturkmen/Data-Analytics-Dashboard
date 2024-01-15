@@ -227,8 +227,8 @@ nav ul li a:hover{
 
     .logo{
         text-align: left;
-        padding-left: 4em;
-        padding-top: 2em;
+        padding-left: 2em;
+        /* padding-top: 2em; */
     }
 
     .section{
