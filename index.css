@@ -27,11 +27,7 @@ body {
     padding: 2em;
     border-radius: 13px;
 }
-/* 
-nav {
-    display: none;
-}
-  */
+
 .header{
     display: flex;
     height: 20px;
