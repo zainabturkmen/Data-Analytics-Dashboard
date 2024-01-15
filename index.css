@@ -56,10 +56,14 @@ h1{
     color: #FFF;
     width: 331px;
     height: 81px;
-    /* font-size: 48px; */
     font-weight: 800;
     line-height: 89%;
     text-transform: uppercase;
     font-size: clamp(2.5rem, -0.875rem + 8.333vw, 4rem);
+}
 
+.cv{
+    display: grid;
+    place-items: center;
+    height: 80%;
 }
