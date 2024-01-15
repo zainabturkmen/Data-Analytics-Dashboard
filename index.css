@@ -104,3 +104,8 @@ p{
     height: 1.5em;
     left: 1.25rem;
 }
+
+.cta:hover{
+    background-color: var(--primary-color);
+
+}
