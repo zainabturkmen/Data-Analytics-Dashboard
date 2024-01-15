@@ -157,12 +157,37 @@ nav ul li a:hover{
 @media only screen and (min-width: 1000px) {
 
     nav{
-        position: unset;
+        /* position: unset; */
         transform: translateX(0) !important;
         border-radius: unset;
         border-top-left-radius: 13px;
         border-bottom-left-radius: 13px;
     }
+
+    .menu-btn, .back-btn{
+        display: none;
+    }
     
+    ul{
+        margin-top: 4em;
+    }
+
+    .header{
+        margin-left: -2em;
+    }
+    .container{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .logo{
+        text-align: left;
+    }
+
+    .section{
+        border-radius: unset;
+        border-top-right-radius: 13px;
+        border-bottom-right-radius: 13px;
+    }
 }
 
