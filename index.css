@@ -37,6 +37,10 @@ nav {
     display: flex;
 }
 
+.menu-btn{
+    
+}
+
 .logo {
     color: var(--primary-color);
     font-weight: 800;
